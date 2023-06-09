@@ -36,7 +36,7 @@ const contactUs = () => {
                 isTeacher={false}
                 position="Overall Coordinator"
                 email="tnpcell@cit.ac.in "
-                phone="+91-9065389731"
+                phone="+91-9101176748"
                 linkedin=" https://www.linkedin.com/in/iftiazur-rahman-b19192252"
                 islinkedin={true}
                 isPhone={true}
